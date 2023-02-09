@@ -1,0 +1,237 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400&display=swap');
+
+.coffe-logo {
+    height: 50px;
+    width: 80px;
+
+}
+
+#navcolor {
+    background-color: #242726;
+}
+
+#navItem0 {
+    color: #6A2B05;
+    font-family: "Josefin Sans", Sans-Serif;
+    font-weight: bold;
+
+}
+
+#navItem1 {
+    color: #BB6B24;
+    font-family: "Josefin Sans", Sans-Serif;
+
+}
+
+#navItem2 {
+    color: #BB6B24;
+    font-family: "Josefin Sans", Sans-Serif;
+
+}
+
+#navItem3 {
+    color: #BB6B24;
+    font-family: "Josefin Sans", Sans-Serif;
+
+}
+
+.banner-section-bg-container {
+    background-image: url("https://res.cloudinary.com/ccbp-nxtwave/image/upload/v1675504831/How-Do-Caffeinated-Drinks-Affect-Your-Oral-Health-scaled_hvxso7.jpg");
+    height: 150%;
+    background-size: cover;
+}
+
+.name {
+    color: #BB6B24;
+}
+
+.shop-name {
+    font-size: 60px;
+    margin-left: 46px;
+    padding-bottom: 30PX;
+    margin-top: 100px;
+
+}
+
+.tag-line {
+    font-size: 40px;
+    font-weight: 500;
+    margin-left: 46px;
+    font-family: "Josefin Sans", Sans-Serif;
+
+}
+
+.button {
+    padding-top: 400px;
+    margin-left: 46px;
+}
+
+.button-style {
+    width: 170px;
+    height: 55px;
+    border-radius: 6px;
+    font-family: "Josefin Sans", Sans-Serif;
+    border-width: 0px;
+    font-size: 20px;
+    border-style: solid;
+    border-left-width: 20px;
+    border-left-color: #6A2B05;
+    background-color: #BB6B24;
+
+}
+
+.explore-menu-section {
+    background-color: #242726;
+}
+
+.menu-section-heading {
+    color: #BB6B24;
+    font-family: "Josefin Sans", Sans-Serif;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.menu-item-card {
+    border-radius: 16px;
+}
+
+.menu-item-image {
+    border-radius: 16px;
+}
+
+.menu-card-title {
+    color: #BB6B24;
+    font-family: "Josefin Sans", Sans-Serif;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.menu-item-link {
+    color: #6A2B05;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.delivery-and-payment-section {
+    background-color: #242726;
+}
+
+.delivery-and-payment-section-img {
+    width: 270px;
+}
+
+.delivery-and-payment-section-heading {
+    color: #183b56;
+    font-family: "Josefin Sans", Sans-Serif;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: "Josefin Sans", Sans-Serif;
+    font-size: 16px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.thanking-customers-section {
+    background-image: radial-gradient(#ac7b58, #5c412d);
+}
+
+.thanking-customers-section-heading {
+    color: #242726;
+    font-family: "Josefin Sans", Sans-Serif;
+    ;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.thanking-customers-section-description {
+    color: #242726;
+    font-family: "Josefin Sans", Sans-Serif;
+    font-size: 16px;
+}
+
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.thanking-customers-section-modal-title {
+    color: #242726;
+    font-weight: 800;
+}
+
+.custom-button {
+    width: 170px;
+    height: 55px;
+    border-radius: 6px;
+    font-family: "Josefin Sans", Sans-Serif;
+    border-width: 0px;
+    font-size: 20px;
+    border-style: solid;
+    border-left-width: 20px;
+    border-left-color: #6A2B05;
+    background-color: #BB6B24;
+}
+
+.thanking-customers-section-modal-title {
+    color: #6A2B05;
+    font-family: "Josefin Sans", Sans-Serif;
+}
+
+.follow-us-section {
+    background-color: #c7a68f;
+}
+
+.follow-us-section-heading {
+    font-family: "Josefin Sans", Sans-Serif;
+    font-weight: 700;
+    font-size: 28px;
+    color: #6A2B05;
+    text-align: center;
+}
+
+.icon {
+    color: #6A2B05;
+    font-size: 35px;
+}
+
+.follow-us-icon-container {
+    width: 80px;
+    height: 80px;
+    background-color: #BB6B24;
+    padding-top: 22px;
+    padding-right: 16px;
+    padding-left: 22px;
+    margin: 15px;
+    border-radius: 45px;
+}
+
+
+
+.footer-section-mail-id {
+    color: #BB6B24;
+    font-family: "Josefin Sans", Sans-Serif;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section {
+    background-color: #242726;
+}
+
+.footer-section-address {
+    color: #BB6B24;
+    font-family: "Josefin Sans", Sans-Serif;
+    font-size: 14px;
+}
